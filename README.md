@@ -1,93 +1,164 @@
-# 👋 Gida Thomas
+# Gida Thomas
 
-> Software Developer | UI/UX Designer  
-> 🇹🇿 Tanzania | 🎓 Software Engineering Student
-
----
-
-## 🚀 About Me
-
-I'm a software engineering student with a strong focus on developing practical and user-centered digital systems. I specialize in building web applications that solve real-world problems, combining backend logic, database design, and intuitive user interfaces to deliver efficient and scalable solutions.
-
-**Interests:** Web Development • Full-Stack Applications • System Design • UI/UX • Machine Learning
+**Software Developer & UI/UX Designer** | Full-Stack Web Development Specialist  
+🇹🇿 Tanzania | 🎓 Software Engineering Student at UCC
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Summary
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+Results-driven software developer with expertise in full-stack web application development, system design, and user interface optimization. Proven ability to architect scalable solutions that combine robust backend systems with intuitive frontend experiences. Committed to writing clean, maintainable code and delivering business value through innovative technology solutions.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-API-FF6B6B?style=flat)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**Key Focus Areas:** Web Application Development • Database Design • System Architecture • Full-Stack Solutions
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Technical Competencies
 
-### 🏠 [House Rent Management System](https://github.com/GidahThomas/rent-with-me)
-A comprehensive web platform for managing rental processes including property listings, tenant registration, and payment tracking. Designed to streamline the rental management workflow for landlords and tenants.
+### Programming Languages
+```
+JavaScript (Advanced) | Python (Intermediate) | PHP (Advanced) | Java (Intermediate) | C++ (Intermediate)
+```
 
-**Tech:** PHP, MySQL, HTML, CSS | **Status:** 🔄 In Development
+### Frontend Development
+- **Frameworks & Libraries:** React, HTML5, CSS3
+- **Design Tools:** Figma, Adobe XD
+- **Methodologies:** Responsive Design, User-Centered Design
 
-### 📦 [Dubai Cargo System](https://github.com/GidahThomas/dubai-cargo-system)
-An integrated logistics system for managing product inventory, customer orders, and shipment tracking. Built to handle complex supply chain operations efficiently.
+### Backend & Database Architecture
+- **Runtime Environments:** Node.js, PHP
+- **Database Systems:** MySQL, Database Design & Optimization
+- **API Development:** RESTful API Design & Implementation
 
-**Tech:** Backend System | **Status:** 🔄 In Development
+### Development Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Development Environment:** VS Code, Command Line Tools
+- **Deployment & Hosting:** Vercel, Web Servers
+- **Collaboration:** Agile Development, Code Review Processes
+
+---
+
+## 💼 Professional Projects
+
+### 🏢 UCC Project Management Platform v2
+**Scalable project management solution for academic and organizational use**
+
+- **Technology Stack:** PHP • MySQL • HTML/CSS • Vercel Deployment
+- **Key Features:**
+  - Task and resource management system
+  - Real-time project timeline tracking
+  - User role-based access control
+  - Responsive web interface
+- **Status:** Production (Live)
+- **Live Demo:** [ucc-pmp-v2.vercel.app](https://ucc-pmp-v2.vercel.app)
+- **Repository:** [ucc-pmp-v2](https://github.com/GidahThomas/ucc-pmp-v2)
+
+### 🏠 House Rent Management System
+**Comprehensive rental property management platform for landlords and tenants**
+
+- **Technology Stack:** PHP • MySQL • HTML/CSS • REST APIs
+- **Key Features:**
+  - Property listing and management
+  - Tenant registration and verification
+  - Automated payment tracking and invoicing
+  - Search and filtering capabilities
+  - Administrative dashboard
+- **Status:** Active Development
+- **Repository:** [rent-with-me](https://github.com/GidahThomas/rent-with-me)
+
+### 📦 Dubai Cargo & Logistics System
+**Enterprise-grade inventory and shipment management platform**
+
+- **Technology Stack:** Backend System Architecture • Database Design
+- **Key Features:**
+  - Inventory management and tracking
+  - Order fulfillment automation
+  - Real-time shipment tracking
+  - Supply chain optimization
+- **Status:** Development Phase
+- **Repository:** [dubai-cargo-system](https://github.com/GidahThomas/dubai-cargo-system)
 
 ### 🍷 Wine Quality Prediction System
-A machine learning model that predicts wine quality using chemical composition data and supervised learning algorithms.
+**Machine learning model for quality assessment**
 
-**Tech:** Python, Machine Learning | **Status:** ✅ Completed
-
-### 📊 [UCC Project Management Platform v2](https://github.com/GidahThomas/ucc-pmp-v2)
-A modern project management solution for tracking tasks, resources, and project timelines. Built with a focus on usability and performance.
-
-**Tech:** PHP, MySQL | **Live Demo:** [ucc-pmp-v2.vercel.app](https://ucc-pmp-v2.vercel.app)
+- **Technology Stack:** Python • Machine Learning • Supervised Learning
+- **Methodology:** Classification model using chemical composition data
+- **Status:** Completed
+- **Application:** Predictive analytics for wine industry
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GidahThomas&show_icons=true&theme=radical)
+**GitHub Activity & Contributions**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GidahThomas&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GidahThomas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
----
-
-## 🎯 Current Goals
-
-- 🔨 Build impactful software solutions that solve real-world problems
-- 📚 Advance skills in machine learning and data science
-- 💼 Grow into a professional full-stack software engineer
-- 🌐 Create open-source projects that help the developer community
+![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=GidahThomas&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📞 Let's Connect!
+## 🎓 Education & Certifications
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gidamasaudathomas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GidahThomas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gidahthomas)
+- **Software Engineering Student** - Uganda Christian University (UCC)
+- **Specialized Training:** Full-Stack Web Development, Database Design, UI/UX Principles
 
 ---
 
-**⭐ Feel free to explore my repositories, fork projects, and reach out for collaboration!**
+## 🎯 Professional Objectives
+
+- Architect and deliver scalable full-stack solutions that drive business impact
+- Establish expertise in modern web development frameworks and best practices
+- Contribute to open-source projects and the developer community
+- Advance technical knowledge in cloud architecture and microservices
+- Mentor junior developers and foster collaborative development environments
+
+---
+
+## 📋 Repositories Overview
+
+| Repository | Type | Status | Technology |
+|-----------|------|--------|-----------|
+| [ucc-pmp-v2](https://github.com/GidahThomas/ucc-pmp-v2) | Project Management | 🟢 Live | PHP, MySQL |
+| [rent-with-me](https://github.com/GidahThomas/rent-with-me) | Property Management | 🟡 Active | PHP, MySQL |
+| [dubai-cargo-system](https://github.com/GidahThomas/dubai-cargo-system) | Logistics System | 🟡 Development | Backend |
+| [PT-UCC](https://github.com/GidahThomas/PT-UCC) | Project | ⚪ Planning | Multi-tech |
+| [ucc-pmp](https://github.com/GidahThomas/ucc-pmp) | Legacy | 🔵 Archive | PHP |
+
+---
+
+## 🤝 Professional Engagement
+
+I'm actively interested in:
+- **Full-Stack Development Opportunities** - Building complete web solutions
+- **System Architecture Consulting** - Designing scalable systems
+- **Open Source Contribution** - Collaborating on community projects
+- **Technical Mentorship** - Guiding junior developers
+
+---
+
+## 📞 Professional Contact
+
+| Channel | Link |
+|---------|------|
+| **Email** | [gidamasaudathomas@gmail.com](mailto:gidamasaudathomas@gmail.com) |
+| **GitHub** | [github.com/GidahThomas](https://github.com/GidahThomas) |
+| **LinkedIn** | [linkedin.com/in/gidahthomas](https://linkedin.com/in/gidahthomas) *(Recommended for professional inquiries)* |
+
+---
+
+## 💡 Development Philosophy
+
+> "Write code that others can understand. Build systems that scale. Create solutions that matter."
+
+I believe in:
+- **Code Quality** — Clean, maintainable, well-documented code
+- **User-Centric Design** — Intuitive interfaces that solve real problems
+- **Continuous Learning** — Staying current with industry best practices
+- **Team Collaboration** — Effective communication and knowledge sharing
+
+---
+
+**© 2026 Gida Thomas** | Last Updated: September 2026
+
+*Actively seeking opportunities in full-stack development and system architecture roles.*
