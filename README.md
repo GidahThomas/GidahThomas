@@ -3,13 +3,13 @@
 <div align="center">
 
 <a href="https://github.com/GidahThomas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4500&pause=1200&color=00D9FF&background=080D1A&lines=Software+Engineer+in+Progress;Full-Stack+Web+Developer;Backend+Systems+Developer;UI%2FUX+Design+Enthusiast;Building+Practical+Digital+Solutions;Exploring+Scalable+Software+Architecture" alt="Typing animation" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1200&color=00D9FF&background=080D1A&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Building+Practical+Solutions" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gida%20Thomas&fontSize=42&height=180&fontAlign=50&duration=8&animation=twinkling&fontColor=F1F5F9&background=080D1A" alt="Gida Thomas banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gida%20Thomas&fontSize=42&height=180&fontAlign=50&duration=8&animation=twinkling&fontColor=F1F5F9&background=080D1A" alt="Profile banner" />
 
 <p>
-  <strong>Software Developer | Full-Stack Engineer | UI/UX Designer</strong><br>
+  <strong>Software Engineer | Full-Stack Developer | UI/UX Enthusiast</strong><br>
   Based in Tanzania • Software Engineering Student
 </p>
 
@@ -23,32 +23,15 @@
 
 ## About Me
 
-Software engineering student and developer focused on building practical digital solutions across the full stack. My work combines backend development, database-driven systems, web application architecture, and UI/UX thinking to create tools that are functional, understandable, and useful for real users.
+I am a software engineering student and developer focused on building practical digital solutions that solve real-world problems. My work spans full-stack web development, backend systems, database-driven applications, and user-centered product design.
 
-I work with PHP, MySQL, JavaScript, Python, and modern web technologies to build responsive applications, business systems, and service-oriented workflows. I am particularly interested in full-stack development, system design, database architecture, and the bridge between technical implementation and user-centered design.
+I enjoy creating reliable, scalable, and maintainable systems using PHP, MySQL, JavaScript, Python, and modern web technologies. I am particularly interested in building tools that improve workflow, support business operations, and deliver meaningful user experiences.
 
-I am open to software engineering opportunities, internships, professional collaboration, and technical discussions related to web development, backend engineering, product-minded software, and practical digital systems.
-
----
-
-## ASCII Terminal Profile
-
-```text
-   ____ _     _       _____ _                     _
-  / ___(_) __| | __ _|_   _| |__   ___  _ __ ___  / |
- | |  _| |/ _` |/ _` || | | '_ \ / _ \| '__/ _ \ | |
- | |_| | | (_| | (_| || | | | | | (_) | | |  __/ | |
-  \____|_|\__,_|\__,_||_| |_| |_|\___/|_|  \___| |_|
-
-      > Software Developer | Full-Stack Engineer
-      > Building practical digital solutions...
-      > Designing data-driven systems...
-      > Committing ideas into reality...
-```
+I am open to software engineering opportunities, internships, professional collaboration, and technical discussions related to web development, backend engineering, and product-minded software design.
 
 ---
 
-## Technology Stack
+## Core Skills
 
 ### Programming Languages
 
@@ -64,17 +47,13 @@ I am open to software engineering opportunities, internships, professional colla
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 
-### Backend
+### Backend & Data
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![PHP](https://skillicons.dev/icons?i=php)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
 
-### Databases
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### Tools
+### Tools & Platforms
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -86,48 +65,48 @@ I am open to software engineering opportunities, internships, professional colla
 
 ## Featured Projects
 
-### 1) UCC Project Management Platform v2
+### UCC Project Management Platform v2
+A project and task management platform designed to coordinate work across teams, timelines, and responsibilities with structured planning and role-based access.
 
-A project and task management platform created for coordinating work across teams and timelines. It supports structured project planning, role-based access, and centralized information for project stakeholders.
-
-- Purpose: Support project coordination, task tracking, and team visibility.
-- Main features: project and task management, timeline tracking, role-based access control, responsive interface, centralized project information.
-- Tech stack: PHP, MySQL, HTML, CSS.
-- Status: Live demo available.
-- Live demo: https://ucc-pmp-v2.vercel.app
+- Purpose: Improve project coordination and team visibility
+- Stack: PHP, MySQL, HTML, CSS
+- Status: Live demo available
+- Live Demo: https://ucc-pmp-v2.vercel.app
 - Repository: https://github.com/GidahThomas/ucc-pmp-v2
 
-### 2) House Rent Management System
+### House Rent Management System
+A rental workflow platform for managing property listings, tenant records, payments, and administrative operations in a single system.
 
-A rental workflow platform designed to manage property listings, tenant records, payment tracking, and administrative operations in one place.
-
-- Purpose: Improve tenant and property administration for rental operations.
-- Main features: property management, tenant registration, rental payment tracking, invoice management, property search, administrative dashboard.
-- Tech stack: PHP, MySQL, HTML, CSS, REST APIs.
-- Status: Active development.
+- Purpose: Simplify rental operations and administration
+- Stack: PHP, MySQL, HTML, CSS, REST APIs
+- Status: Active development
 - Repository: https://github.com/GidahThomas/rent-with-me
 
-### 3) Dubai Cargo & Logistics System
-
+### Dubai Cargo & Logistics System
 A backend-oriented business workflow system focused on logistics operations, inventory movement, and order processing.
 
-- Purpose: Support operational visibility across cargo and logistics workflows.
-- Main features: inventory management, order processing, shipment tracking, database-driven workflows, business process automation.
-- Tech stack: PHP, MySQL, backend architecture.
-- Status: Development phase.
+- Purpose: Support operational visibility across cargo processes
+- Stack: PHP, MySQL, backend architecture
+- Status: In development
 - Repository: https://github.com/GidahThomas/dubai-cargo-system
 
-### 4) Wine Quality Prediction System
+### Wine Quality Prediction System
+A machine learning project focused on classification-based prediction using wine chemical composition data.
 
-A machine learning project that explores classification-based quality prediction using chemical composition data.
-
-- Purpose: Analyze wine characteristics to support quality prediction.
-- Main features: data preprocessing, classification-based quality prediction, analysis of chemical composition data.
-- Tech stack: Python, machine learning, supervised classification.
-- Status: Completed.
+- Purpose: Analyze quality indicators and support data-driven prediction
+- Stack: Python, machine learning
+- Status: Completed
 - Repository: https://github.com/GidahThomas?tab=repositories
 
-> Note: I am keeping the project showcase focused on the repositories and tools that are clearly defined here, without inventing screenshots or unsupported claims.
+---
+
+## Current Focus
+
+- Full-stack web application development
+- Backend architecture and database design
+- User-centered interface design
+- Business process automation
+- Software engineering fundamentals and practical problem solving
 
 ---
 
@@ -139,51 +118,47 @@ A machine learning project that explores classification-based quality prediction
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GidahThomas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="360" />
 
 <img src="https://streak-stats.demolab.com?user=GidahThomas&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GidahThomas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=GidahThomas&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="100%" />
 
 </div>
 
-> GitHub analytics depend on repository visibility and third-party services, so they should be read as a general view of public activity rather than verified employment or productivity metrics.
-
 ---
 
-## Development Terminal
+## Development Profile
 
 ```bash
 $ whoami
 Gida Thomas
 
 $ role
-Software Developer | UI/UX Designer
+Software Engineer | Full-Stack Developer
 
-$ interests
-Full-Stack Development
-Backend Engineering
-Database Architecture
-System Design
+$ focus
+Backend Systems
+Database Design
+Web Application Development
+User Experience
 
-$ current_mission
-Build practical digital solutions.
+$ mission
+Build practical solutions with clean, scalable code.
 
-$ status
-Continuously learning and building.
+$status
+Continuously learning and shipping meaningful projects.
 ```
 
 ---
 
-## Education & Technical Interests
+## Education & Interests
 
-I am currently studying software engineering, with interests in:
+I am currently studying software engineering, with strong interest in:
 
 - Object-oriented programming
 - Database management
 - Software architecture
+- Web application development
 - Distributed systems
 - Cybersecurity
 - Artificial intelligence
-- Web application development
 
 ---
 
@@ -201,9 +176,8 @@ I welcome software engineering opportunities, internships, technical collaborati
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Building%20with%20curiosity%20and%20code&fontSize=30&height=120&fontAlign=50&duration=8&animation=twinkling&fontColor=F1F5F9&background=080D1A" alt="Footer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Building%20with%20curiosity%20and%20code&fontSize=30&height=120&fontAlign=50&duration=8&animation=twinkling&fontColor=F1F5F9&background=080D1A" alt="Footer banner" />
 
 <p align="center">
   <sub>© 2026 Gida Thomas</sub>
 </p>
-
