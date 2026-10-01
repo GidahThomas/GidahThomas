@@ -1,98 +1,37 @@
-# MASTER PROMPT: Build a Premium Animated GitHub Developer Profile for Gida Thomas
+# Gida Thomas
 
-Act as a world-class GitHub profile designer, senior frontend engineer, developer branding specialist, and technical recruiter experience consultant.
+<div align="center">
 
-Your task is to completely redesign my GitHub profile README into a **premium, visually immersive, animated, professional developer portfolio** that stands out to software engineering recruiters, international technology companies, senior developers, and open-source communities.
+<a href="https://github.com/GidahThomas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4500&pause=1200&color=00D9FF&background=080D1A&lines=Software+Engineer+in+Progress;Full-Stack+Web+Developer;Backend+Systems+Developer;UI%2FUX+Design+Enthusiast;Building+Practical+Digital+Solutions;Exploring+Scalable+Software+Architecture" alt="Typing animation" width="100%" />
+</a>
 
-Do not create a generic GitHub README. Design it as an elegant, futuristic developer identity with the visual quality of a high-end software engineering portfolio.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gida%20Thomas&fontSize=42&height=180&fontAlign=50&duration=8&animation=twinkling&fontColor=F1F5F9&background=080D1A" alt="Gida Thomas banner" width="100%" />
 
-## 1. Developer Identity
+<p>
+  <strong>Software Developer | Full-Stack Engineer | UI/UX Designer</strong><br>
+  Based in Tanzania • Software Engineering Student
+</p>
 
-Use the following information throughout the profile.
+<a href="mailto:gidamasaudathomas@gmail.com"><img src="https://img.shields.io/badge/Email-gidamasaudathomas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/GidahThomas"><img src="https://img.shields.io/badge/GitHub-GidahThomas-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/gidahthomas"><img src="https://img.shields.io/badge/LinkedIn-Gida%20Thomas-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 
-* **Full name:** Gidamasauda Thomas Gwasma
-* **Professional name:** Gida Thomas
-* **GitHub username:** GidahThomas
-* **Email:** [gidamasaudathomas@gmail.com](mailto:gidamasaudathomas@gmail.com)
-* **Location:** Tanzania
-* **Professional title:** Software Developer | Full-Stack Engineer | UI/UX Designer
-* **Education:** Software Engineering Student
-* **GitHub:** https://github.com/GidahThomas
-* **LinkedIn:** https://linkedin.com/in/gidahthomas
-* **Portfolio direction:** Modern, innovative, engineering-focused, minimal, premium.
+</div>
 
-Never invent professional experience, employment history, technical certifications, project achievements, performance metrics, or statistics.
+---
 
-## 2. Visual Design System
+## About Me
 
-Create a high-end visual identity inspired by modern developer portfolios, premium SaaS dashboards, futuristic terminal interfaces, and minimalist engineering websites.
+Software engineering student and developer focused on building practical digital solutions across the full stack. My work combines backend development, database-driven systems, web application architecture, and UI/UX thinking to create tools that are functional, understandable, and useful for real users.
 
-### Color palette
+I work with PHP, MySQL, JavaScript, Python, and modern web technologies to build responsive applications, business systems, and service-oriented workflows. I am particularly interested in full-stack development, system design, database architecture, and the bridge between technical implementation and user-centered design.
 
-Use a cohesive palette:
+I am open to software engineering opportunities, internships, professional collaboration, and technical discussions related to web development, backend engineering, product-minded software, and practical digital systems.
 
-* Primary background: Deep midnight navy `#080D1A`
-* Secondary background: `#101827`
-* Primary accent: Electric cyan `#00D9FF`
-* Secondary accent: Neon violet `#9D4EDD`
-* Supporting accent: Emerald `#00E5A8`
-* Main text: `#F1F5F9`
-* Secondary text: `#94A3B8`
-* Light-mode background: `#F8FAFC`
-* Light-mode text: `#0F172A`
+---
 
-Use restrained gradients, thin borders, subtle visual separators, and balanced contrast.
-
-Avoid excessive neon colors, distracting gradients, or an overcrowded interface.
-
-### Glassmorphism-inspired presentation
-
-Create a visual language resembling premium glassmorphism interfaces using:
-
-* Translucent-looking panels in generated SVG artwork.
-* Soft gradients.
-* Subtle glow effects.
-* Thin illuminated borders.
-* Layered visual compositions.
-* Terminal-style panels.
-* Carefully balanced whitespace.
-
-Since GitHub strips or restricts arbitrary CSS and JavaScript, simulate glass effects through SVG artwork and externally hosted visual assets rather than unsupported inline styles.
-
-## 3. Animated Profile Header
-
-Create a visually impressive profile introduction.
-
-The header should include:
-
-* A wide, elegant animated SVG banner.
-* A dark futuristic developer workspace aesthetic.
-* Animated gradient lines and subtle glowing elements.
-* A centered developer identity.
-* A professional role description.
-* A smooth typing-effect animation.
-* A compact contact and social-link area.
-
-Use a typing animation featuring these rotating phrases:
-
-* Software Engineer in Progress
-* Full-Stack Web Developer
-* Backend Systems Developer
-* UI/UX Design Enthusiast
-* Building Practical Digital Solutions
-* Exploring Scalable Software Architecture
-
-Use a reliable SVG typing service, such as `readme-typing-svg`, with suitable animation speed, pauses, and responsive dimensions.
-
-Include an attractive static fallback if the animation fails.
-
-## 4. Animated ASCII Developer Art
-
-Create a distinctive ASCII-art section inspired by terminal interfaces and developer culture.
-
-The artwork should feature a custom terminal-style illustration with a developer identity, using monospace text and clean spacing.
-
-Example aesthetic:
+## ASCII Terminal Profile
 
 ```text
    ____ _     _       _____ _                     _
@@ -101,280 +40,116 @@ Example aesthetic:
  | |_| | | (_| | (_| || | | | | | (_) | | |  __/ | |
   \____|_|\__,_|\__,_||_| |_| |_|\___/|_|  \___| |_|
 
-      > Building digital solutions...
-      > Designing scalable systems...
+      > Software Developer | Full-Stack Engineer
+      > Building practical digital solutions...
+      > Designing data-driven systems...
       > Committing ideas into reality...
 ```
 
-Improve the artwork to achieve a professional terminal aesthetic.
+---
 
-Requirements:
+## Technology Stack
 
-* Proper alignment.
-* Monospace presentation.
-* Appropriate spacing.
-* Readable output on desktop and mobile.
-* No unnecessarily large ASCII blocks.
-* A distinct developer identity rather than generic decorative text.
+### Programming Languages
 
-Use code blocks for ASCII art to preserve alignment.
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
 
-Do not claim that static ASCII art is animated. If animation is included, use a supported animated GIF or SVG with a graceful static alternative.
+### Frontend
 
-## 5. Recruiter-Focused Professional Introduction
+![React](https://skillicons.dev/icons?i=react)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
-Create a concise, credible professional summary.
+### Backend
 
-It should communicate:
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PHP](https://skillicons.dev/icons?i=php)
+![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
 
-* My software engineering background.
-* Full-stack web development interests.
-* Backend and database engineering capabilities.
-* UI/UX design interests.
-* Practical project development experience.
-* Interest in software engineering opportunities and technical collaboration.
+### Databases
 
-Use a professional tone suitable for recruiters at technology companies, financial institutions, enterprise software companies, and startups.
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-Avoid generic statements such as "I am passionate about coding" without supporting context.
+### Tools
 
-Make the opening section concise and compelling.
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
-## 6. Premium Technology Stack Showcase
+---
 
-Build a visually organized technology showcase with categorized technology icons and badges.
+## Featured Projects
 
-Include:
+### 1) UCC Project Management Platform v2
 
-**Programming languages**
+A project and task management platform created for coordinating work across teams and timelines. It supports structured project planning, role-based access, and centralized information for project stakeholders.
 
-* JavaScript
-* Python
-* PHP
-* Java
-* C++
+- Purpose: Support project coordination, task tracking, and team visibility.
+- Main features: project and task management, timeline tracking, role-based access control, responsive interface, centralized project information.
+- Tech stack: PHP, MySQL, HTML, CSS.
+- Status: Live demo available.
+- Live demo: https://ucc-pmp-v2.vercel.app
+- Repository: https://github.com/GidahThomas/ucc-pmp-v2
 
-**Frontend**
+### 2) House Rent Management System
 
-* React
-* HTML5
-* CSS3
+A rental workflow platform designed to manage property listings, tenant records, payment tracking, and administrative operations in one place.
 
-**Backend**
+- Purpose: Improve tenant and property administration for rental operations.
+- Main features: property management, tenant registration, rental payment tracking, invoice management, property search, administrative dashboard.
+- Tech stack: PHP, MySQL, HTML, CSS, REST APIs.
+- Status: Active development.
+- Repository: https://github.com/GidahThomas/rent-with-me
 
-* Node.js
-* PHP
-* REST APIs
+### 3) Dubai Cargo & Logistics System
 
-**Databases**
+A backend-oriented business workflow system focused on logistics operations, inventory movement, and order processing.
 
-* MySQL
+- Purpose: Support operational visibility across cargo and logistics workflows.
+- Main features: inventory management, order processing, shipment tracking, database-driven workflows, business process automation.
+- Tech stack: PHP, MySQL, backend architecture.
+- Status: Development phase.
+- Repository: https://github.com/GidahThomas/dubai-cargo-system
 
-**Tools**
+### 4) Wine Quality Prediction System
 
-* Git
-* GitHub
-* VS Code
-* Figma
-* Vercel
+A machine learning project that explores classification-based quality prediction using chemical composition data.
 
-Use a clean icon grid through a service such as Skill Icons, alongside carefully selected badges.
+- Purpose: Analyze wine characteristics to support quality prediction.
+- Main features: data preprocessing, classification-based quality prediction, analysis of chemical composition data.
+- Tech stack: Python, machine learning, supervised classification.
+- Status: Completed.
+- Repository: https://github.com/GidahThomas?tab=repositories
 
-Organize technologies into clear categories.
+> Note: I am keeping the project showcase focused on the repositories and tools that are clearly defined here, without inventing screenshots or unsupported claims.
 
-Do not assign artificial proficiency percentages or claim expertise levels without verified evidence.
+---
 
-## 7. Premium Featured Project Showcase
+## GitHub Analytics
 
-Transform my repositories into professional project showcases.
+<div align="center">
 
-Use a consistent visual format for each project:
+<img src="https://github-readme-stats.vercel.app/api?username=GidahThomas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GidahThomas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="360" />
 
-* Project title.
-* One-sentence problem statement.
-* Purpose and target users.
-* Main features.
-* Technology stack.
-* Development status.
-* Live demo, if available.
-* Repository link.
-* Screenshot or visual preview, if available.
+<img src="https://streak-stats.demolab.com?user=GidahThomas&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GidahThomas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
-Use subtle separators and balanced layouts to distinguish projects.
+<img src="https://github-profile-trophy.vercel.app/?username=GidahThomas&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="100%" />
 
-### Project 1: UCC Project Management Platform v2
+</div>
 
-Repository:
-https://github.com/GidahThomas/ucc-pmp-v2
+> GitHub analytics depend on repository visibility and third-party services, so they should be read as a general view of public activity rather than verified employment or productivity metrics.
 
-Live demo:
-https://ucc-pmp-v2.vercel.app
+---
 
-Technology:
-PHP, MySQL, HTML, CSS.
-
-Features:
-
-* Project and task management.
-* Project timeline tracking.
-* Role-based access control.
-* Responsive interface.
-* Centralized project information.
-
-Status: Live demo available.
-
-### Project 2: House Rent Management System
-
-Repository:
-https://github.com/GidahThomas/rent-with-me
-
-Technology:
-PHP, MySQL, HTML, CSS, REST APIs.
-
-Features:
-
-* Property management.
-* Tenant registration.
-* Rental payment tracking.
-* Invoice management.
-* Property search.
-* Administrative dashboard.
-
-Status: Active development.
-
-### Project 3: Dubai Cargo & Logistics System
-
-Repository:
-https://github.com/GidahThomas/dubai-cargo-system
-
-Technology:
-PHP, MySQL, backend architecture.
-
-Features:
-
-* Inventory management.
-* Order processing.
-* Shipment tracking.
-* Database-driven workflows.
-* Business process automation.
-
-Status: Development phase.
-
-### Project 4: Wine Quality Prediction System
-
-Technology:
-Python, machine learning, supervised classification.
-
-Features:
-
-* Data preprocessing.
-* Classification-based quality prediction.
-* Analysis of chemical composition data.
-
-Status: Completed.
-
-Give particular visual attention to the project that has a live demo. Make project links obvious without using misleading interface elements.
-
-Never invent screenshots. If no screenshot exists, use an elegant project-specific illustration or a simple technology-themed placeholder.
-
-## 8. Advanced GitHub Analytics Dashboard
-
-Create an impressive dynamic statistics section with a cohesive visual theme.
-
-Include:
-
-**GitHub profile statistics**
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GidahThomas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-```
-
-**Most-used languages**
-
-```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GidahThomas&layout=compact&theme=tokyonight&hide_border=true)
-```
-
-**Contribution streak**
-
-```md
-![GitHub Streak](https://streak-stats.demolab.com?user=GidahThomas&theme=tokyonight&hide_border=true)
-```
-
-**Contribution activity graph**
-
-```md
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GidahThomas&theme=tokyo-night&hide_border=true&area=true)
-```
-
-**GitHub profile trophies**
-
-```md
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GidahThomas&theme=tokyonight&no-frame=true&no-bg=true&column=6)
-```
-
-Requirements:
-
-* Use a consistent dark visual theme.
-* Avoid excessively large images.
-* Keep the layout balanced.
-* Ensure statistics remain readable.
-* Avoid presenting external-service estimates as verified employment or productivity metrics.
-* Add a note explaining that GitHub analytics depend on repository visibility and third-party services.
-
-Do not fabricate contribution numbers, commit counts, or programming-language percentages.
-
-## 9. Light and Dark Mode Compatibility
-
-Design the README so that it remains visually coherent when GitHub users switch between light and dark modes.
-
-GitHub Markdown supports theme-specific images using the `#gh-dark-mode-only` and `#gh-light-mode-only` URL fragments for supported image rendering.
-
-Where practical:
-
-* Create a dark-theme banner.
-* Create a matching light-theme banner.
-* Use theme-specific image elements.
-* Prefer badges and images with sufficient contrast.
-* Avoid relying on a dark-only design for all visual elements.
-
-Remember that a GitHub README cannot implement a custom theme toggle or automatically run a JavaScript-based light/dark mode switch.
-
-Use GitHub's own theme selection and supported image alternatives.
-
-## 10. Animated Visual Elements
-
-Use subtle animations to create a premium developer aesthetic.
-
-Include:
-
-* Typing text.
-* An animated header banner.
-* An animated contribution visualization, if available.
-* Carefully selected animated SVG or GIF artwork.
-* A visually dynamic footer.
-* Subtle movement rather than constant distracting motion.
-
-Consider services such as:
-
-* Readme Typing SVG.
-* Capsule Render.
-* GitHub Readme Stats.
-* GitHub Activity Graph.
-* GitHub Profile Trophy.
-* Komarev profile view counter.
-
-Use external services only where they genuinely improve the presentation.
-
-Do not embed unsupported JavaScript, scripts, custom CSS, or interactive React components.
-
-Respect reduced-motion considerations by providing static alternatives where practical.
-
-## 11. Developer Terminal Experience
-
-Include a compact terminal-inspired section that represents my engineering approach.
-
-Example:
+## Development Terminal
 
 ```bash
 $ whoami
@@ -396,119 +171,39 @@ $ status
 Continuously learning and building.
 ```
 
-Style the terminal section to feel like a modern integrated development environment.
+---
 
-Maintain correct code-block formatting and ensure that it is readable on mobile devices.
+## Education & Technical Interests
 
-## 12. Professional Education and Technical Interests
+I am currently studying software engineering, with interests in:
 
-Add a concise academic section highlighting software engineering studies and relevant areas of technical development.
+- Object-oriented programming
+- Database management
+- Software architecture
+- Distributed systems
+- Cybersecurity
+- Artificial intelligence
+- Web application development
 
-Include:
+---
 
-* Object-oriented programming.
-* Database management.
-* Software architecture.
-* Distributed systems.
-* Cybersecurity.
-* Artificial intelligence.
-* Web application development.
+## Contact
 
-Do not invent certificates, academic awards, grades, or formal qualifications.
+<div align="center">
 
-## 13. Recruiter-Friendly Contact Section
+<a href="mailto:gidamasaudathomas@gmail.com"><img src="https://img.shields.io/badge/Email-gidamasaudathomas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/GidahThomas"><img src="https://img.shields.io/badge/GitHub-GidahThomas-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/gidahthomas"><img src="https://img.shields.io/badge/LinkedIn-Gida%20Thomas-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 
-Create a prominent but minimal contact section.
+</div>
 
-Include:
+I welcome software engineering opportunities, internships, technical collaboration, and meaningful discussions around full-stack development, backend systems, and user-focused digital products.
 
-**Email:** [gidamasaudathomas@gmail.com](mailto:gidamasaudathomas@gmail.com)
+---
 
-**GitHub:** https://github.com/GidahThomas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Building%20with%20curiosity%20and%20code&fontSize=30&height=120&fontAlign=50&duration=8&animation=twinkling&fontColor=F1F5F9&background=080D1A" alt="Footer banner" width="100%" />
 
-**LinkedIn:** https://linkedin.com/in/gidahthomas
+<p align="center">
+  <sub>© 2026 Gida Thomas</sub>
+</p>
 
-Use professionally designed social badges with clear destinations.
-
-Make email contact straightforward through a `mailto:` link.
-
-Include a concise statement welcoming relevant professional opportunities, internships, collaboration, and software engineering discussions.
-
-Do not create fake social links or unsupported contact channels.
-
-## 14. Premium Footer
-
-Design a visually distinctive footer.
-
-Include:
-
-* A wide, elegant animated wave.
-* A short developer-oriented closing statement.
-* A copyright line for 2026.
-* Minimal visual decoration.
-* A balanced ending that complements the header.
-
-Use a service such as Capsule Render for the footer banner.
-
-Avoid excessive badges, redundant contact links, and decorative elements that add no professional value.
-
-## 15. Technical Compatibility and Quality Assurance
-
-This is a GitHub profile README, not a standalone website.
-
-The finished design must follow GitHub's supported Markdown and HTML rendering capabilities.
-
-Important technical constraints:
-
-* No JavaScript execution.
-* No custom CSS injection.
-* No unsupported CSS animations.
-* No custom browser-based theme controls.
-* No unnecessary HTML layout complexity.
-* No external scripts.
-* No broken image references.
-* No invalid Markdown.
-* No fabricated links or project claims.
-
-Use Markdown first and limited HTML only where GitHub supports it.
-
-For layout, use simple centered image blocks and tables only where they improve the presentation and remain usable on mobile.
-
-Ensure the result is attractive on desktop and mobile.
-
-## 16. Final Deliverable
-
-Modify the existing `README.md` in my GitHub profile repository.
-
-Do not simply return a list of recommendations or a short template.
-
-Generate the complete README with:
-
-* A premium animated developer header.
-* A compelling professional introduction.
-* A distinctive ASCII-art section.
-* A categorized technology stack.
-* Featured project showcases.
-* Dynamic GitHub analytics.
-* Light and dark theme support where practical.
-* A terminal-inspired developer section.
-* Education and technical interests.
-* Professional contact details.
-* A premium animated footer.
-
-Preserve accurate information from my existing README.
-
-Improve the hierarchy, consistency, presentation, and recruiter experience without inventing facts.
-
-After completing the work:
-
-1. Check every project URL.
-2. Validate Markdown and HTML compatibility.
-3. Check image links for formatting errors.
-4. Remove duplicated sections.
-5. Review the README for mobile readability.
-6. Confirm that the email and social links are correct.
-7. Present the final README content.
-8. Summarize the main design improvements.
-
-**Design objective:** The finished GitHub profile should feel like a premium, futuristic software engineer portfolio presented within GitHub itself: visually distinctive, technically credible, recruiter-friendly, and unmistakably personal.
